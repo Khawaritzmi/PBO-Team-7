@@ -1,0 +1,3 @@
+Atribut = variabel diluar method
+Behaviour = 
+this merujuk nama pada Atribut
