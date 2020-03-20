@@ -32,6 +32,4 @@ class Box{
         return mass / (width*height*depth);
 
     }
-
-
 }
